@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="snake/Game.cs">
+    <Files>
+      <File FileName="snake/Chameleon.cs" Line="38" Column="1" />
+      <File FileName="snake/MapParser.cs" Line="7" Column="2" />
+      <File FileName="snake/Game.cs" Line="56" Column="28" />
+      <File FileName="snake/Cell.cs" Line="18" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="snake" expanded="True">
+            <Node name="Game.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>x</Value>
+          <Value>y</Value>
+          <Value>level</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

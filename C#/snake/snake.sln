@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake", "snake\snake.csproj", "{7C73A801-B5F0-4BB9-9E0D-1B4C06C24F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C73A801-B5F0-4BB9-9E0D-1B4C06C24F83}.Debug|x86.ActiveCfg = Debug|x86
+		{7C73A801-B5F0-4BB9-9E0D-1B4C06C24F83}.Debug|x86.Build.0 = Debug|x86
+		{7C73A801-B5F0-4BB9-9E0D-1B4C06C24F83}.Release|x86.ActiveCfg = Release|x86
+		{7C73A801-B5F0-4BB9-9E0D-1B4C06C24F83}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = snake\snake.csproj
+	EndGlobalSection
+EndGlobal
